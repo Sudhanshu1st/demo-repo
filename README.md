@@ -1,2 +1,2 @@
 # demo-repo
-some descriptopn
+some descriptions
